@@ -25,8 +25,8 @@ The app includes:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/ZaighamNasir/Auth-api-integration-Part-two-.git
+cd Auth-api-integration-Part-two-
 ```
 ### 2. Install dependencies
 ```bash
